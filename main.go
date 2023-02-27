@@ -7,7 +7,5 @@ import (
 func main() {
 	fmt.Println("Getting started with Go")
 
-	// Init DB connection
-
-	// Start Server
+	// Testing Jenkinsfile #1
 }
