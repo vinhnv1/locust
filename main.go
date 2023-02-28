@@ -10,4 +10,6 @@ func main() {
 	// Testing Jenkinsfile #1
 
 	// Testing Jenkinsfile #2
+
+	// Testing Jenkinsfile #3
 }
